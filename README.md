@@ -6,6 +6,7 @@ A simple **Flask + SQLite** web app made for **practice purposes**, inspired by 
 Um simples aplicativo web Flask + SQLite feito para fins de prática, inspirado no rastreamento de partidas de Tekken 7.
 
 > ⚠️ This project was created only for learning — it’s not affiliated with Bandai Namco or Tekken.
+>
 > ⚠️ Este projeto foi criado apenas para aprendizado — não é afiliado à Bandai Namco ou Tekken.
 
 ---
