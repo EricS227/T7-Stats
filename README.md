@@ -3,11 +3,15 @@
 
 A simple **Flask + SQLite** web app made for **practice purposes**, inspired by *Tekken 7* match tracking.
 
+Um simples aplicativo web Flask + SQLite feito para fins de prática, inspirado no rastreamento de partidas de Tekken 7.
+
 > ⚠️ This project was created only for learning — it’s not affiliated with Bandai Namco or Tekken.
+> ⚠️ Este projeto foi criado apenas para aprendizado — não é afiliado à Bandai Namco ou Tekken.
 
 ---
 
 ## 🚀 How to Run
+## 🚀 Como iniciar
 
 ```bash
 git clone https://github.com/yourusername/T7_STATS.git
