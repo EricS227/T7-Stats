@@ -11,8 +11,8 @@ Um simples aplicativo web Flask + SQLite feito para fins de prática, inspirado 
 
 ---
 
-## 🚀 How to Run
-## 🚀 Como iniciar
+## 🚀 How to Run / Como Iniciar
+
 
 ```bash
 git clone https://github.com/yourusername/T7_STATS.git
